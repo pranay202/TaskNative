@@ -1,7 +1,8 @@
 # Full Stack TODO App in REACT NATIVE
 
 <table>
-<tr><td><a href="https://exp://exp.host/@pranaykharabe/client?release-channel=default">Demo 🔥</a></td></tr>
+<tr><td><a href="https://expo.dev/@pranaykharabe/client?servicceType=classic&distribution=expo-go">Live Demo 🔥</a></td></tr>
+</table>
 
 <p>
   <!-- iOS -->
@@ -21,9 +22,9 @@
 ## 👁️ How to View Demo
 
 - Install the Expo Go App from Google/Apple Play Store.
-- Click on the demo button given above or below<table>
-<tr><td><a href="https://exp://exp.host/@pranaykharabe/client?release-channel=default">Demo 🔥</a></td></tr>
-</table>
+- Click on the demo button above and click on the ```Open in Expo Go``` button below the QR in your mobile device
+
+- OR You can simply scan the QR given there with your mobile device!
 
 ## 🚀 How to use
 
