@@ -1,7 +1,7 @@
 # Full Stack TODO App in REACT NATIVE
 
 <table>
-<tr><td><a href="https://expo.dev/@pranaykharabe/client?servicceType=classic&distribution=expo-go">Live Demo 🔥</a></td></tr>
+<tr><td><a href="https://expo.dev/@pranaykharabe/Task-Native?serrviceType=classic&distribution=expo-go">Live Demo 🔥</a></td></tr>
 </table>
 
 <p>
